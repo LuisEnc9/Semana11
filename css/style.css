@@ -1,0 +1,98 @@
+
+
+body{
+	background-color: #8DE0D5;
+}
+
+header {
+		margin-top: 10px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+header img {
+
+  max-width: 550px;
+}
+
+.foto1{
+	width: 150px;
+	margin-top: 0px;
+	margin-left: 480px;
+	padding: 10px;
+}
+
+.foto2{
+	display: inline-block;
+	width: 1300px;
+	text-align: center;
+}
+
+.foto3{
+	display: inline-block;
+	width: 1500px;
+	text-align: center;
+}
+
+.foto4{
+	display: inline-block;
+	width: 1500px;
+	text-align: center;
+}
+
+.foto5{
+	display: inline-block;
+	width: 1450px;
+	text-align: center;
+}
+
+.foto6{
+	width: 1450px;
+    text-align: center;
+}
+
+.foto7{
+	width: 1500px;
+	text-align: center;
+}
+
+.foto8{
+	width: 1440px;
+	text-align: center;
+}
+
+.foto9{
+	width: 1500px;
+	text-align: center;
+}
+
+.foto10{
+	width: 1500px;
+	text-align: center;
+}
+
+.foto11{
+	width: 1500px;
+	text-align: center;
+}
+
+.foto12{
+	width: 1500px;
+	text-align: center;
+}
+
+.foto13{
+	width: 1500px;
+	text-align: center;
+}
+
+.foto14{
+	width: 1500px;
+	text-align: center;
+}
+
+.foto15{
+	width: 1500px;
+	text-align: center;
+}
+
+
